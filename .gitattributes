@@ -1,7 +1,2 @@
-__pycache__
-.history
-.hypothesis/
-build/
-reports/
-.env
-node_modules/
+*.sol linguist-language=Solidity
+*.vy linguist-language=Python
